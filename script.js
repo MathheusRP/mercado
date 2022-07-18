@@ -10,7 +10,6 @@ frutas.append(listaFruta)
 drinks.append(listaBebida)
 hygiene.append(listahygiene)
 
-console.log(listaBebida)
 function listandoProdutos(produto){
 for(let i = 0; i < produto.length; i++){
     let produtos = produto[i]
@@ -33,7 +32,7 @@ for(let i = 0; i < produto.length; i++){
 
 
 }
-console.log(listandoProdutos(products))
+(listandoProdutos(products)
 
 
 function criandoCards(produto){
