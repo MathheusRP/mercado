@@ -32,7 +32,7 @@ for(let i = 0; i < produto.length; i++){
 
 
 }
-(listandoProdutos(products)
+listandoProdutos(products)
 
 
 function criandoCards(produto){
